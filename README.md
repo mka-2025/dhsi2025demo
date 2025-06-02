@@ -1,6 +1,6 @@
 # Dhsi2025demo Info
 
-This is a demo project I created for DHSI to walk thorugh Collectionbuilder
+This is a demo project I created for DHSI to walk thorugh Collectionbuilder.
 
 -------
 
